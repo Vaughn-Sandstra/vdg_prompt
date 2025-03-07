@@ -1,0 +1,14 @@
+i learned how to store and use variables
+string firstName;
+firstName = "Bob";
+Console.WriteLine(firstName); ^ (this would write bob)
+string firstName;
+
+firstName = "Bob";
+Console.WriteLine(firstName);
+firstName = "Liem";
+Console.WriteLine(firstName);
+firstName = "Isabella";
+Console.WriteLine(firstName);
+firstName = "Yasmin";
+Console.WriteLine(firstName);
